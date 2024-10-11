@@ -9,4 +9,4 @@ spec:
   - name: sb-tomcat 
     targetPort: 8085
     port: 8085
-  type: ClusterIP
+  type: NodePort
