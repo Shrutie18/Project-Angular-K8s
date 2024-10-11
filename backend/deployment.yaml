@@ -18,6 +18,6 @@ spec:
       - name: backend-app 
         image: shruti786/ang-backend:angular
         ports:
-        - name: springboot-tomcat
+        - name: sb-tomcat
           containerPort: 8085
           protocol: TCP 
